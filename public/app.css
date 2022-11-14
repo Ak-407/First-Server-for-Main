@@ -1,0 +1,37 @@
+
+  
+  body {
+    margin: 200px 520px ;
+    align-items: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    background-color: #f5f5f5;
+  }
+  
+  .form-signin {
+    max-width: 330px;
+    padding: 15px;
+  }
+  
+  .form-signin .form-floating:focus-within {
+    z-index: 2;
+  }
+  
+  .q {
+    margin-top: 10px;
+    margin-bottom: 0px;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+  }
+  .w{
+    border-radius: 0%;
+ }
+  .e {
+    margin-bottom: 10px;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+  }
+  .z{
+    width: 300px;
+  }
+  
